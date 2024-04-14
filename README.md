@@ -44,7 +44,7 @@
 <h4>Deploy</h4>
 <p align="left"><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>Heroku</a> 
 <p align="left"><a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercek" width="40" height="40"/>Vercel</a> 
-<p align="left"><a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/docker-icon.svg" alt="docker" width="40" height="40"/>Docker</a> 
+<p align="left"><a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>Docker</a> 
   
 <h4>Other</h4>  
   
