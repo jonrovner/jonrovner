@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jonathan Rovner</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Canchera**
+- 🔭 I’m currently working on **Okta**
 
-- 🌱 I’m currently learning **Typescript, React-Native**
+- 🌱 I’m currently learning **Typescript, Next.js, AWS**
 
-- 👯 I’m looking to collaborate on **a fully remote web development team**
 
 - 👨‍💻 All of my projects are available at [github.com/jonrovner](github.com/jonrovner)
 
-- 💬 Ask me about **React, Node, Express, Sequelize**
+- 💬 Ask me about **Auth0, React, Node, Express, Next.js, jwt, IAM**
 
 - 📫 How to reach me **jonrovner@gmail.com**
 
