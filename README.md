@@ -21,6 +21,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<h4>Authentication</h4>
+<p align="left"><a href="https://auth0.com" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/auth0/original/3X/2/9/29f71c18beab11bce67eb8ca6d95b5a6317f2d0d.svg" alt="html5" width="40" height="40"/>HTML5</a> 
+
 <h4>Front-end</h4>
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>HTML5</a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> CSS </a>
@@ -40,6 +43,7 @@
 
 <h4>Deploy</h4>
 <p align="left"><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>Heroku</a> 
+<p align="left"><a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercek" width="40" height="40"/>Vercel</a> 
   
 <h4>Other</h4>  
   
