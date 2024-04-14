@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jonathan Rovner</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Okta**
+- 🔭 I’m currently working at **Okta**
 
-- 🌱 I’m currently learning **Typescript, Next.js, AWS**
+- 🌱 I’m learning **Typescript, Next.js, AWS**
 
 
 - 👨‍💻 All of my projects are available at [github.com/jonrovner](github.com/jonrovner)
@@ -44,6 +44,7 @@
 <h4>Deploy</h4>
 <p align="left"><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>Heroku</a> 
 <p align="left"><a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercek" width="40" height="40"/>Vercel</a> 
+<p align="left"><a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/docker-icon.svg" alt="docker" width="40" height="40"/>Docker</a> 
   
 <h4>Other</h4>  
   
