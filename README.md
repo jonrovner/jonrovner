@@ -12,4 +12,4 @@ I specialize in **authentication and access management**, particularly with **Au
 - **Tools & Technologies:** Socket.io, Sequelize, TailwindCSS, Git, Docker, Terraform
 - **Cloud:** AWS 
 
-🤝 Let's connect and build something amazing!  
+ Let's connect and build something!  
